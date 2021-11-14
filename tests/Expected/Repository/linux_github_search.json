@@ -1,0 +1,32 @@
+[
+    {
+        "repository": "linux",
+        "full_repository_name": "torvalds/linux",
+        "description": "Linux kernel source tree",
+        "creator": "torvalds"
+    },
+    {
+        "repository": "linux",
+        "full_repository_name": "raspberrypi/linux",
+        "description": "Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+        "creator": "raspberrypi"
+    },
+    {
+        "repository": "linux-command",
+        "full_repository_name": "jaywcjlove/linux-command",
+        "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+        "creator": "jaywcjlove"
+    },
+    {
+        "repository": "linux-insides",
+        "full_repository_name": "0xAX/linux-insides",
+        "description": "A little bit about a linux kernel",
+        "creator": "0xAX"
+    },
+    {
+        "repository": "LinuxGSM",
+        "full_repository_name": "GameServerManagers/LinuxGSM",
+        "description": "The command-line tool for quick, simple deployment and management of Linux dedicated game servers.",
+        "creator": "GameServerManagers"
+    }
+]

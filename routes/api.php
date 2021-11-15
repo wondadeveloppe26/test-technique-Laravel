@@ -13,5 +13,8 @@ use Illuminate\Support\Facades\Route;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
+// Mauvais convention
+//Route::get('repository', RepositoryController::class . '@search');
 
-Route::get('repository', RepositoryController::class . '@search');
+// Bonne methode
+Route::get('repository', [RepositoryController::class, 'search']);
